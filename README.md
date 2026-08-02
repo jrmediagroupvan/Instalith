@@ -15,6 +15,7 @@ A modern Windows application installer that helps you set up a fresh PC quickly 
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#system-requirements)
 [![Architecture](https://img.shields.io/badge/Architecture-x64-1F6FEB?style=for-the-badge)](#system-requirements)
+![Architecture](https://img.shields.io/badge/ARCHITECTURE-X86-7C3AED?style=for-the-badge)
 [![Built with .NET](https://img.shields.io/badge/Built%20with-.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#technology)
 [![License](https://img.shields.io/badge/Status-Active%20Development-F59E0B?style=for-the-badge)](#project-status)
 
