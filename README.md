@@ -294,24 +294,6 @@ Planned improvements include:
 
 ---
 
-## Contributing
-
-Bug reports, package corrections, application requests, and feature suggestions are welcome.
-
-When requesting a new application, include:
-
-```text
-Application name:
-Official website:
-WinGet package ID:
-Licence type:
-Free for personal use:
-Free for commercial use:
-Account required:
-```
-
----
-
 ## Important notice
 
 Instalith is an independent project and is not affiliated with Microsoft, WinGet, Ninite, Autodesk, Blender Foundation, or the publishers of applications listed in its catalog.
