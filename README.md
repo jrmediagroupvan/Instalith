@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="assets/Banner.png" alt="Instalith Logo" width="720">
+
 (Any issues installing just shoot me a message this is still in production)
 <br>
 
