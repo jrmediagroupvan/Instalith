@@ -89,6 +89,7 @@ Uses WinGet and approved publisher sources rather than unofficial download mirro
 ---
 <img src="assets/instalith-logo.png" alt="Instalith Logo" width="720">
 ---
+
 ## Main Features
 
 - Install multiple Windows applications from one interface
