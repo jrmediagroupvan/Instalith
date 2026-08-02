@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/instalith-logo.png" alt="Instalith Logo" width="720">
-<img src="assets/banner.png" alt="Instalith Logo" width="720">
+<img src="assets/Banner.png" alt="Instalith Logo" width="720">
 
 <br>
 
