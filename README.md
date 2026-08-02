@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/instalith-logo.png" alt="Instalith Logo" width="720">
 <img src="assets/Banner.png" alt="Instalith Logo" width="720">
 
 <br>
@@ -88,7 +87,8 @@ Uses WinGet and approved publisher sources rather than unofficial download mirro
 </table>
 
 ---
-
+<img src="assets/instalith-logo.png" alt="Instalith Logo" width="720">
+---
 ## Main Features
 
 - Install multiple Windows applications from one interface
